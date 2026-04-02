@@ -1,0 +1,1 @@
+"./adc_process.obj" "./init.obj" "./main.obj" "./ad713/ad713x.obj" "./ad713/iio_ad713x.obj" "./ad713/iio_dual_ad713x.obj" "./no_os/no_os_alloc.obj" "./no_os/no_os_gpio.obj" "./no_os/no_os_mutex.obj" "./no_os/no_os_spi.obj" "./no_os/no_os_util.obj" "../C6748.cmd" "../uPP.lib" -llibc.a 
